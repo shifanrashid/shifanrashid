@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi, I'm Shifan 👋
+
+- 🎓 Computer Science student at the University of Cincinnati
+- 💻 Interested in software development and data analysis
+- 🔭 Currently working on research involving large-scale data and network analysis
+- 🌱 Currently learning more about software engineering, data systems, and cloud technologies
+- 🛠️ I work with Python, SQL, Java, JavaScript, React, and Pandas
+- 🤝 Open to collaborating on software and data-focused projects
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shifanrashid/)## Hi there 👋
 
 <!--
 **shifanrashid/shifanrashid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
