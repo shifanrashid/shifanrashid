@@ -6,7 +6,7 @@
 - 🌱 Currently learning more about software engineering, data systems, and cloud technologies
 - 🛠️ I work with Python, SQL, Java, JavaScript, React, and Pandas
 - 🤝 Open to collaborating on software and data-focused projects
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shifanrashid/)## Hi there 👋
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shifanrashid/)
 
 <!--
 **shifanrashid/shifanrashid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
